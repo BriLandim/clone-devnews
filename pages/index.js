@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Agora é oficial</h1>
+    return <h1>Agora é oficial teste</h1>
 }
 
 export default Home;
